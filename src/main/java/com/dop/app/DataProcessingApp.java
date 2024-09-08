@@ -53,7 +53,7 @@ public class DataProcessingApp {
 
 
         // Stop the Spark session
-        System.out.println(ds.count() + "count is ");
+        System.out.println(ds.count() + "Record count ");
 
     }
 }
